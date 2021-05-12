@@ -1,0 +1,61 @@
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.exe.config
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.exe
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.pdb
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csprojAssemblyReference.cache
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\App.g.cs
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF_MarkupCompile.cache
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF_MarkupCompile.lref
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\MainWindow.baml
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.g.resources
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.Properties.Resources.resources
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csproj.GenerateResource.cache
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.exe
+C:\Users\Jadke\source\repos\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.pdb
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.exe.config
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.exe
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.pdb
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csprojAssemblyReference.cache
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\App.g.cs
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF_MarkupCompile.cache
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF_MarkupCompile.lref
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\MainWindow.baml
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.g.resources
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.Properties.Resources.resources
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csproj.GenerateResource.cache
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csproj.CopyComplete
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.exe
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.pdb
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\About.g.cs
+C:\Users\Jadke\Google Drive\Programacion\RobocopyWPF\RobocopyWPF\obj\Debug\About.baml
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csprojAssemblyReference.cache
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\About.g.cs
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\App.g.cs
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF_MarkupCompile.cache
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF_MarkupCompile.lref
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.exe
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.pdb
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.exe.config
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.exe
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\bin\Debug\RobocopyWPF.pdb
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\About.baml
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\MainWindow.baml
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.g.resources
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.Properties.Resources.resources
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csproj.GenerateResource.cache
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jadke\Downloads\RobocopyWPF\RobocopyWPF\obj\Debug\RobocopyWPF.csproj.CopyComplete
