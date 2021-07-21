@@ -25,42 +25,6 @@ namespace RobocopyWPF
             InitializeComponent();
         }
 
-        //Function that checks if string has space in between and removes it
-        private void checkSpaces(string path)
-        {
-            bool hasSpace = path.Contains(" ");
-            string pathWithoutSpaces = path.Replace(" ", String.Empty);
-            
-            if (hasSpace == true)
-            {
-                if (System.Windows.MessageBox.Show("Error: Found empty space in between folder name. In order to run robocopy, " +
-                        "folder names must be written without spaces. We can automatically change that for you. " +
-                        "Do you wish to proceed?", "Error", MessageBoxButton.YesNo, MessageBoxImage.Error) == MessageBoxResult.Yes)
-                {
-                    //Removes spaces in every folder name --> rename folders
-                    path = path.TrimEnd(System.IO.Path.DirectorySeparatorChar, System.IO.Path.AltDirectorySeparatorChar);
-
-                    while (path != System.IO.Path.GetPathRoot(path))
-                    {
-                        string dest = System.IO.Path.Combine(System.IO.Path.GetDirectoryName(path), System.IO.Path.GetFileName(path.Replace(" ", "")));
-
-                        if (!path.Equals(dest, StringComparison.CurrentCultureIgnoreCase))
-                        {
-                            Directory.Move(path, dest);
-                        }
-                        path = System.IO.Path.GetDirectoryName(path);
-                    }
-                    //Changes source directory in textbox
-                    tbSourceDirectory.Text = pathWithoutSpaces;
-                }
-                else
-                {
-                    //Makes no changes
-                    System.Windows.MessageBox.Show("You must remove any empty space in the folders name in order to continue.", "Warning", MessageBoxButton.OK, MessageBoxImage.Exclamation);
-                }
-            }       
-        }
-
         private void btnSourceDirectory_Click(object sender, RoutedEventArgs e)
         {
             FolderBrowserDialog fbd = new FolderBrowserDialog();
@@ -70,7 +34,6 @@ namespace RobocopyWPF
             {
                 tbSourceDirectory.Text = fbd.SelectedPath;
                 string sourceDirectory = tbSourceDirectory.Text;
-                checkSpaces(sourceDirectory);
             }
         }
 
@@ -82,7 +45,6 @@ namespace RobocopyWPF
             {
                 tbTargetDirectory.Text = fbd.SelectedPath;
                 string destinationDirectory = tbTargetDirectory.Text;
-                checkSpaces(destinationDirectory);
             }
         }
 
@@ -126,7 +88,7 @@ namespace RobocopyWPF
             //Run robocopy
             else
             {
-                string cmdRobocopy = (@"robocopy " + tbSourceDirectory.Text + " " + tbTargetDirectory.Text + " " + copyOption);
+                string cmdRobocopy = (@"robocopy " + '"' + tbSourceDirectory.Text + '"' + " " + '"' + tbTargetDirectory.Text + '"' + " " + copyOption);                
                 ProcessStartInfo ps = new ProcessStartInfo();
                 ps.FileName = "cmd.exe";
                 ps.WindowStyle = ProcessWindowStyle.Normal;
